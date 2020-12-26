@@ -68,6 +68,7 @@ export default class CreateExercise extends Component {
 
         window.location = '/';
     }
+
     
 
     render() {
